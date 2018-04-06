@@ -1,0 +1,34 @@
+GOING TO WRITE DOWN SOME GADGET IDEAS.
+WHAT IS A GADGET?
+
+a tool to complete a certain task
+
+what tasks do i go through? what kind of tools can make this job easier?
+
+homework - scheduler
+
+waking up - alarm clock
+
+time management -
+
+getting to class -
+
+charging my phone -
+
+carrying items from one class to another - app that can keep track of all items in a bag or backpack
+
+ideas - app for adding ideas and keeping track of them
+
+FIXED THE PROBLEM!
+
+
+now on to the next feature of the program which is to have the user edit one of their ideas
+or have the user display all of their ideas
+
+i also should add the project to github
+
+other features i plan to implement:
+    -have the user upload a sketch or picture about their idea
+    -have the user create an account
+    -send a sketch / idea to someone via email or even text!
+    -have the users ideas backed up to dropbox
