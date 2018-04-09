@@ -43,7 +43,7 @@ class Database:
     def get_one(self,title):# this method should be for the user to search for a specific task
 
         self.c.execute("SELECT * FROM ideas WHERE name = ?", (title,)) #should grab certain
-        #return the data as dict?
+
         return self.c.fetchone()
 
         #close the connection? why?

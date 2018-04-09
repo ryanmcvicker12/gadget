@@ -1,0 +1,11 @@
+problem with line 49 with redirecting the user to a url with arguments
+positional argument problem
+
+trying to use list as a parameter in jinja
+problem with the template to iterate over the list
+
+
+i think i have found a solution, turning the list into a dictionary as i couldent find any information
+regarding regular lists in jinja, going to try out the dict option
+
+figured out i have to .format()
