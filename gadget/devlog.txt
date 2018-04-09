@@ -9,3 +9,20 @@ i think i have found a solution, turning the list into a dictionary as i coulden
 regarding regular lists in jinja, going to try out the dict option
 
 figured out i have to .format()
+
+
+POSSIBLE CHANGES:
+need to figure out how to reroute the user without having all the data within the url
+can i encrypt the data in the url if it cant be hidden?
+
+
+update: 4/9/18
+
+i plan on learning css for a little bit so my web app doesnt look like craigslist when its  finished
+- i still havent been able to figure out how to not have all the data within the url
+- plan on learning sessions in flask so users can have register an account and keep track of their own ideas
+- or should i just leave all ideas public?
+-still regardless i need to learn about sessions for future web apps
+- since i never plan on switching frameworks and sticking with flask and not django
+
+need to increase the size of the input text box

@@ -6,7 +6,7 @@
 from database import Database
 from flask import Flask, render_template,redirect,request, url_for
 import sqlite3
-#project is on github now
+
 #how to upload, send, and display pictures while adding them to sqlite3 database
 #how to allow users to create accounts
 #how to send picture to and email
@@ -59,7 +59,7 @@ def search():
 #@app.route('/getdata/<userData>') #argument that is a list that has no type?
 def getdata(name,description,genre,timegoal):
 
-    return render_template('showdata.html', name=name,genre=genre,description=description,timegoal=timegoal)
+    return render_template('showdata.html', name=name,description=description,timegoal=timegoal)
 
 
 
