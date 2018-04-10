@@ -11,7 +11,7 @@ def test():
 
 
 
-"""
+
 newData = test()
 
 #print(len(newData))
@@ -29,17 +29,5 @@ print(data.get_one('database viewer'))
 
 #data needs to be a singular tuple, or is the search feature not working?...
 #SOLVED : the problem was the method get_one() parameter name had to be different from the column name
-"""
-
-#convert list string into list
-
-#the_string = "['hello','this','sohuld','be','a','list']"
-s = ('name','this is the description for my new idea for it to test out','genre')
-
-#remove the bracket then transform it into a list?
-
-
-
-
 
 

@@ -32,4 +32,3 @@ other features i plan to implement:
     -have the user create an account
     -send a sketch / idea to someone via email or even text!
     -have the users ideas backed up to dropbox
-
