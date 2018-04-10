@@ -3,25 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>Welcome to gadgeto, to hold the jar of your imagination!</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 </head>
 <body>
 
 <form action="/submittedData" method="post">
 
 
-    Name: <input type="text" name="name"><br>
+    <h1>Name: <input type="text" name="name"></h1><br>
 
 
 
-    Genre: <input type="text" name="genre"><br>
-    Time Goal: <input type="text" name="timegoal"><br>
+    <h2>Genre: <input type="text" name="genre"></h2><br>
+    <h3>Time Goal: <input type="text" name="timegoal"></h3><br>
 
-    Description: <textarea rows=12 cols=20 name="description">
+    <h4>Description: <textarea rows=50 cols=100 name="description">
 
 
 
-    </textarea><br>
+    </textarea></h4><br>
 
 
     <input type="submit" value="Submit"><br>

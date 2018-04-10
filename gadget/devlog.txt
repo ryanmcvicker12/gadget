@@ -1,3 +1,11 @@
+
+
+
+
+
+                      DEV LOG FOR THE GADGET PROJECT:
+
+
 problem with line 49 with redirecting the user to a url with arguments
 positional argument problem
 
@@ -26,3 +34,20 @@ i plan on learning css for a little bit so my web app doesnt look like craigslis
 - since i never plan on switching frameworks and sticking with flask and not django
 
 need to increase the size of the input text box
+
+update: 4/10/18
+
+size of the text box was increased
+-css added to the homepage and a little bit on the search page and data page
+- need to add the functionality of grabbing all ideas within the application
+  and presenting them to the user.
+
+
+-need to add more css to the data page and the homepage
+-size of the text box is too big, need to find out how to decrease its size
+-for the "all data" page, need to have dropdown menu for all the ideas
+-do i even need to add the all ideas page?
+-figured out how to decrease and increase the size of the textbox
+ by adjusting the rows and columns of the widget
+
+-now i just have to adjust the homepage accordingly
