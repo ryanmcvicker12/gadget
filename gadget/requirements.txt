@@ -60,7 +60,7 @@ service-identity==17.0.0
 six==1.11.0
 SQLAlchemy==1.2.5
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==1.15.2
 termcolor==1.1.0
 tornado==5.0.1
 traitlets==4.3.2
