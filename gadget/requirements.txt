@@ -18,7 +18,7 @@ dash==0.21.0
 decorator==4.2.1
 Django==2.2.13
 dominate==2.3.1
-Flask==0.12.2
+Flask==1.0
 Flask-Bootstrap==3.3.7.1
 Flask-Compress==1.4.0
 Flask-RESTful==0.3.6
